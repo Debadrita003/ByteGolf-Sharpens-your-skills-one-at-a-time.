@@ -63,13 +63,6 @@ git push origin feature/yourFeatureName
 
 ---
 
-## 📬 Contact
-For questions, feedback, or collaboration ideas:
-- 📧 your.email@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
----
-
 ## 🏁 License
 [MIT](LICENSE)
 
