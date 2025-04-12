@@ -45,15 +45,6 @@ npm run dev
 ```
 Then open `http://localhost:5173` in your browser.
 
----
-
-## 📸 Screenshots (Coming Soon)
-Include images or GIFs of the live code editor, byte tracker, and leaderboard.
-
----
-
-## 💡 Contributing
-We love community contributions! Feel free to fork, open issues, or submit pull requests.
 
 ```bash
 git checkout -b feature/yourFeatureName
